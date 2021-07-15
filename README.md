@@ -1,3 +1,8 @@
+# Check out the Demo Build!
+
+https://covid-tracker-3e399.web.app/ . Feel free to experiment by checking out the cases of the countries and if the app gets hung up or shows an error
+please refresh it!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
